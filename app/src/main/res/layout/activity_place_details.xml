@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background"
+    tools:context="kartavya.com.crowdsourcemaps.PlaceDetails">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map2"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="204dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:context="com.example.mapwithmarker.MapsMarkerActivity" />
+
+    <LinearLayout
+        android:id="@+id/coreDetails"
+        android:layout_width="350dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="36dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/map2">
+
+        <ImageView
+            android:id="@+id/placeImage"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="@string/PlaceImage"
+            tools:layout_editor_absoluteX="242dp"
+            tools:layout_editor_absoluteY="279dp" />
+
+        <LinearLayout
+            android:id="@+id/timeDetail"
+            android:layout_width="198dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="163dp">
+
+            <TextView
+                android:id="@+id/showTime"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:baselineAligned="false"
+                android:gravity="center"
+                android:text="9 am - 12 pm"
+                tools:layout_editor_absoluteX="59dp"
+                tools:layout_editor_absoluteY="309dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="21dp" />
+
+            <RatingBar
+                android:id="@+id/ratingBar"
+                style="@style/Widget.AppCompat.RatingBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:numStars="5" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/addReview"
+        android:layout_width="283dp"
+        android:layout_height="111dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/PlaceReview"
+        app:layout_constraintBottom_toTopOf="@+id/gotoChat"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/coreDetails"
+        app:layout_constraintVertical_bias="0.571" />
+
+    <Button
+        android:id="@+id/navigateToMap"
+        android:layout_width="160dp"
+        android:layout_height="44dp"
+        android:layout_marginBottom="40dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginStart="36dp"
+        android:background="@color/ButtonColor"
+        android:onClick="goToMaps"
+        android:text="@string/Navigate"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/gotoChat"
+        app:layout_constraintHorizontal_bias="0.673"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/gotoChat"
+        android:layout_width="159dp"
+        android:layout_height="44dp"
+        android:layout_marginBottom="40dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginStart="12dp"
+        android:background="@color/ButtonColor"
+        android:onClick="chatBegin"
+        android:text="@string/PublicChat"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/navigateToMap" />
+
+</android.support.constraint.ConstraintLayout>

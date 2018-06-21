@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Crowd source maps</string>
+    <string name="QuesPageHeading">Questions About This Place : </string>
+
+    //Buttons
+    <string name="AddThisPlace">Add This Place</string>
+    <string name="NearbyPlaces">Nearby Places</string>
+    <string name="AddImages">Add Images</string>
+    <string name="Next">Next</string>
+    <string name="PublicChat">Public Chat</string>
+    <string name="Timings">Timings</string>
+    <string name="Submit">Submit</string>
+    <string name="Navigate">Navigate to Map</string>
+    <string name="TakeSnap">Take Snaps</string>
+
+    //InputTexts
+    <string name="PlaceName">Name : </string>
+    <string name="PlaceReview">Review : </string>
+    <string name="PlaceTiming">Timing : \n(eg. 9am - 6pm) </string>
+    <string name="PlaceRating">Rating (1–5) :</string>
+
+    //contentDescription
+    <string name="MapLocation">MapLocation</string>
+
+    //Google_maps_API_key
+    <string name="google_maps_key">AIzaSyCpL3HAi2sk3p5L_8FcN3q2UCOCtJNdbQg</string>
+
+    //ContentDescriptions
+    <string name="PlaceImage">Place Image</string>
+</resources>

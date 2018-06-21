@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "966232025561",
+    "firebase_url": "https://crowd-source-maps.firebaseio.com",
+    "project_id": "crowd-source-maps",
+    "storage_bucket": "crowd-source-maps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966232025561:android:aea2584b30a9cd48",
+        "android_client_info": {
+          "package_name": "kartavya.com.crowdsourcemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966232025561-r0m22bapi4uj8ta5rk37soqehr3bhait.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kartavya.com.crowdsourcemaps",
+            "certificate_hash": "728bb724aceb4d37ffe332784698008985e358d5"
+          }
+        },
+        {
+          "client_id": "966232025561-v7vjaft8grpdv76k3sjdlm4qusv315lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARmAw6eyoSDy95XhmA_in4mG3UB0_zlKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966232025561-v7vjaft8grpdv76k3sjdlm4qusv315lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

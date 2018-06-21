@@ -1,0 +1,139 @@
+{
+  "places" : {
+    "-L7xgI1oJHl8eWzLG3Kt" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A27429?alt=media&token=02b27cf4-eb41-4cc8-b32d-67b42552fe74]",
+      "lat" : 19.108729,
+      "longi" : 72.908224,
+      "placeName" : "Chandivali",
+      "placeRating" : 3,
+      "placeReview" : "sgags",
+      "timings" : "shav"
+    },
+    "-L7xgNwnLNkuU9oAVb8D" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A27416?alt=media&token=83cf64e0-8f3e-441f-8ee2-a9584de7ed31]",
+      "lat" : 19.130847,
+      "longi" : 72.932733,
+      "placeName" : "Kanjurmarg East",
+      "placeRating" : 5,
+      "placeReview" : "svsva",
+      "timings" : "shsga"
+    },
+    "-L86I4nTkFp2BhPzf-b1" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A4635?alt=media&token=95fed74a-28e7-476b-89e0-50dd39bf3c33]",
+      "lat" : 19.120148723,
+      "longi" : 72.844275567,
+      "placeName" : "Patel co-operative society",
+      "placeRating" : 5,
+      "placeReview" : "Best eating place ever",
+      "timings" : "11 to 5"
+    },
+    "-L86J3V1z2oEGWsMO1g1" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A4432?alt=media&token=adbe10e6-0572-49c4-9955-f6caa3a8e113]",
+      "lat" : 19.1265556,
+      "longi" : 72.842925678,
+      "placeName" : "Oberoi Block",
+      "placeRating" : 5,
+      "placeReview" : "Tech park",
+      "timings" : "3 to 6"
+    },
+    "-L86JStUOr5DkTXaTK17" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A4429?alt=media&token=877fe512-2482-4d84-b2e1-400eeca77284]",
+      "lat" : 19.12631898,
+      "longi" : 72.86492023,
+      "placeName" : "St Dominic High School",
+      "placeRating" : 5,
+      "placeReview" : "Richest man once",
+      "timings" : "Never"
+    },
+    "-L86JuyfX0Xgsq5cIYU4" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A4430?alt=media&token=d49e2a68-5511-414e-befa-9bea6da7b69d]",
+      "lat" : 19.15788123,
+      "longi" : 72.935486676,
+      "placeName" : "RK Engineers",
+      "placeRating" : 3,
+      "placeReview" : "RK Engineers FV",
+      "timings" : "10 to 4"
+    },
+    "-L86KCRhFm-iehMySROi" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A4431?alt=media&token=a5401151-1476-4214-9f1a-225de9612dd9, https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A4431?alt=media&token=0b312a15-82ef-43db-ba5b-7e4f28b3cddd]",
+      "lat" : 19.128151678,
+      "longi" : 72.910394987,
+      "placeName" : "Powai Lake",
+      "placeRating" : 2,
+      "placeReview" : "bsjaiwj",
+      "timings" : "1 to 5"
+    },
+    "-L86MBqJR9ZL16G_rFS7" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A4646?alt=media&token=ee9d81ae-1004-4a99-b401-a54be6dd9c82]",
+      "lat" : 19.021047869052182,
+      "longi" : 72.8718979448667,
+      "placeName" : "Vidyalankar Institute of Technology",
+      "placeRating" : 5,
+      "placeReview" : "best college ",
+      "timings" : "9 to 6"
+    },
+    "-L8DYv2X6ss_wyYKMmXf" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2F4666?alt=media&token=433f98d4-571b-46fd-b2cd-33f3a0a8d554]",
+      "lat" : 19.285457411531645,
+      "longi" : 72.87697450089836,
+      "placeName" : "Kartavya ka ghar",
+      "placeRating" : 5,
+      "placeReview" : "It's a great place for a koala to live",
+      "timings" : "Anytime"
+    },
+    "-L8DZdpiXVJ5aQ5stvog" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2F4652?alt=media&token=cd3f7e07-abbb-4e61-8695-64c484084d4c]",
+      "lat" : 19.229187,
+      "longi" : 72.855955,
+      "placeName" : "Vidyalankar gate classes",
+      "placeRating" : 4,
+      "placeReview" : "Nice place to study",
+      "timings" : "9 to 6"
+    },
+    "-L8Dnu0uc5klwWmUM93G" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2F1797483727?alt=media&token=d29de2c7-5ffd-4b45-93f1-95d0dfa3fbb0]",
+      "lat" : 19.16849772,
+      "longi" : 72.95763374,
+      "placeName" : "Vihang's home",
+      "placeRating" : 5,
+      "placeReview" : "Testing testing 1 2 3 ",
+      "timings" : "12 to 12"
+    },
+    "-L8GSZ2TEZfNUJC6x1u-" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A4881?alt=media&token=a45e9fbb-f26c-49ef-9cb0-f4c399596d94]",
+      "lat" : 19.166196375671294,
+      "longi" : 72.96474575385437,
+      "placeName" : "Thane toll pickup point",
+      "placeRating" : 2,
+      "placeReview" : "This is a place where Kartavaya can pick you up while going to college",
+      "timings" : "8 to 8 30"
+    },
+    "-L8HUhs8lFfkei4ksW7B" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A27433?alt=media&token=92754c0c-75ff-4cde-b8bc-9ba085492bc6]",
+      "lat" : 19.02708725,
+      "longi" : 72.85086603,
+      "placeName" : "Matunga station",
+      "placeRating" : 4,
+      "placeReview" : "Jaan",
+      "timings" : "5 am to 2 am"
+    },
+    "-L8WuB_jJ4hMmnXh5Qhh" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A28109?alt=media&token=5f93bea8-8d0a-43e1-b627-089e54240fa9]",
+      "lat" : 19.08376969,
+      "longi" : 72.92061018,
+      "placeName" : "Cherry blossom looking trees",
+      "placeRating" : 5,
+      "placeReview" : "Cool",
+      "timings" : "10 to 10"
+    },
+    "-L8WurkI3aLyUfsuoCvf" : {
+      "imageURIs" : "[https://firebasestorage.googleapis.com/v0/b/crowd-source-maps.appspot.com/o/place_photos%2Fimage%3A28090?alt=media&token=7bae65a9-55dc-4e25-a3df-cfd809d040df]",
+      "lat" : 19.10018034,
+      "longi" : 72.92862613,
+      "placeName" : "Three blue witches",
+      "placeRating" : 5,
+      "placeReview" : "Cool buildings",
+      "timings" : "10 am to 5 pm"
+    }
+  }
+}
